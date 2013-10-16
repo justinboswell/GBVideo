@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response>
+	<error><![CDATA[OK]]></error>
+	<limit>100</limit>
+	<number_of_page_results>8</number_of_page_results>
+	<number_of_total_results>8</number_of_total_results>
+	<offset>0</offset>
+	<results>
+		<video_type>
+			<api_detail_url><![CDATA[http://api.giantbomb.com/video_type/2/]]></api_detail_url>
+			<deck><![CDATA[The Giant Bomb team lets you know what games you should check out.]]></deck>
+			<id>2</id>
+			<name><![CDATA[Reviews]]></name>
+			<site_detail_url><![CDATA[http://www.giantbomb.com/videos/2/]]></site_detail_url>
+		</video_type>
+		<video_type>
+			<api_detail_url><![CDATA[http://api.giantbomb.com/video_type/3/]]></api_detail_url>
+			<deck><![CDATA[Our editors provide commentary as they play through 20 minutes or more of uninterrupted gameplay.]]></deck>
+			<id>3</id>
+			<name><![CDATA[Quick Looks]]></name>
+			<site_detail_url><![CDATA[http://www.giantbomb.com/videos/3/]]></site_detail_url>
+		</video_type>
+		<video_type>
+			<api_detail_url><![CDATA[http://api.giantbomb.com/video_type/4/]]></api_detail_url>
+			<deck><![CDATA[When a video game becomes or inspires the plot of a movie, Ryan Davis is there to tell you if it's any good.]]></deck>
+			<id>4</id>
+			<name><![CDATA[TANG]]></name>
+			<site_detail_url><![CDATA[http://www.giantbomb.com/videos/4/]]></site_detail_url>
+		</video_type>
+		<video_type>
+			<api_detail_url><![CDATA[http://api.giantbomb.com/video_type/5/]]></api_detail_url>
+			<deck><![CDATA[We're going to play through an entire game start to finish! You can watch us, if that's your thing!]]></deck>
+			<id>5</id>
+			<name><![CDATA[Endurance Run]]></name>
+			<site_detail_url><![CDATA[http://www.giantbomb.com/videos/5/]]></site_detail_url>
+		</video_type>
+		<video_type>
+			<api_detail_url><![CDATA[http://api.giantbomb.com/video_type/6/]]></api_detail_url>
+			<deck><![CDATA[The biggest shows and conferences in video games, covered in style by Giant Bomb.]]></deck>
+			<id>6</id>
+			<name><![CDATA[Events]]></name>
+			<site_detail_url><![CDATA[http://www.giantbomb.com/videos/6/]]></site_detail_url>
+		</video_type>
+		<video_type>
+			<api_detail_url><![CDATA[http://api.giantbomb.com/video_type/7/]]></api_detail_url>
+			<deck><![CDATA[Developers and publishers want to sell you games! Trailers are how they do it!]]></deck>
+			<id>7</id>
+			<name><![CDATA[Trailers]]></name>
+			<site_detail_url><![CDATA[http://www.giantbomb.com/videos/7/]]></site_detail_url>
+		</video_type>
+		<video_type>
+			<api_detail_url><![CDATA[http://api.giantbomb.com/video_type/8/]]></api_detail_url>
+			<deck><![CDATA[Exclusive video content you'll only find on Giant Bomb. Stupidity guaranteed!]]></deck>
+			<id>8</id>
+			<name><![CDATA[Features]]></name>
+			<site_detail_url><![CDATA[http://www.giantbomb.com/videos/8/]]></site_detail_url>
+		</video_type>
+		<video_type>
+			<api_detail_url><![CDATA[http://api.giantbomb.com/video_type/10/]]></api_detail_url>
+			<deck><![CDATA[]]></deck>
+			<id>10</id>
+			<name><![CDATA[Subscriber]]></name>
+			<site_detail_url><![CDATA[http://www.giantbomb.com/videos/10/]]></site_detail_url>
+		</video_type>
+	</results>
+	<status_code>1</status_code>
+</response>

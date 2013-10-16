@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<response>
+	<error><![CDATA[OK]]></error>
+	<limit>10</limit>
+	<number_of_page_results>10</number_of_page_results>
+	<number_of_total_results>6568</number_of_total_results>
+	<offset>0</offset>
+	<results>
+		<video>
+			<api_detail_url><![CDATA[http://api.giantbomb.com/video/4210/]]></api_detail_url>
+			<deck><![CDATA[This video shows for non-members during paid events.]]></deck>
+			<hd_url><![CDATA[http://www.giantbomb.com/video/protected_video_url/4210/progressive/3500/?download=1]]></hd_url>
+			<high_url><![CDATA[http://media.giantbomb.com/video/ft_nonsubs_060311_1500.mp4]]></high_url>
+			<id>4210</id>
+			<image>
+				<icon_url><![CDATA[http://media.giantbomb.com/uploads/0/22/1907056-1898627_insanely_twisted_shadow_lantern_run_icon.png]]></icon_url>
+				<medium_url><![CDATA[http://media.giantbomb.com/uploads/0/22/1907056-1898627_insanely_twisted_shadow_lantern_run_small.png]]></medium_url>
+				<screen_url><![CDATA[http://media.giantbomb.com/uploads/0/22/1907056-1898627_insanely_twisted_shadow_lantern_run_screen.png]]></screen_url>
+				<small_url><![CDATA[http://media.giantbomb.com/uploads/0/22/1907056-1898627_insanely_twisted_shadow_lantern_run_small.png]]></small_url>
+				<super_url><![CDATA[http://media.giantbomb.com/uploads/0/22/1907056-1898627_insanely_twisted_shadow_lantern_run_super.png]]></super_url>
+				<thumb_url><![CDATA[http://media.giantbomb.com/uploads/0/22/1907056-1898627_insanely_twisted_shadow_lantern_run_thumb.png]]></thumb_url>
+				<tiny_url><![CDATA[http://media.giantbomb.com/uploads/0/22/1907056-1898627_insanely_twisted_shadow_lantern_run_tiny.png]]></tiny_url>
+			</image>
+			<length_seconds>29</length_seconds>
+			<low_url><![CDATA[http://media.giantbomb.com/video/ft_nonsubs_060311_700.mp4]]></low_url>
+			<name><![CDATA[NON SUBSCRIBER VIDEO]]></name>
+			<publish_date>2004-06-01 14:18:00</publish_date>
+			<site_detail_url><![CDATA[http://www.giantbomb.com/non-subscriber-video/17-4210/]]></site_detail_url>
+			<url><![CDATA[ft_nonsubs_060311.mp4]]></url>
+			<user><![CDATA[snide]]></user>
+		</video>
+		<video>
+			<api_detail_url><![CDATA[http://api.giantbomb.com/video/4/]]></api_detail_url>
+			<deck><![CDATA[Bad Company has satisfying explosions that make it a winner.]]></deck>
+			<hd_url><![CDATA[http://www.giantbomb.com/video/protected_video_url/4/progressive/3500/?download=1]]></hd_url>
+			<high_url><![CDATA[http://media.giantbomb.com/video/bad_company_review_1500.mp4]]></high_url>
+			<id>4</id>
+			<image>
+				<icon_url><![CDATA[http://media.giantbomb.com/uploads/0/31/494092-video_review_small_icon.jpg]]></icon_url>
+				<medium_url><![CDATA[http://media.giantbomb.com/uploads/0/31/494092-video_review_small_small.jpg]]></medium_url>
+				<screen_url><![CDATA[http://media.giantbomb.com/uploads/0/31/494092-video_review_small_screen.jpg]]></screen_url>
+				<small_url><![CDATA[http://media.giantbomb.com/uploads/0/31/494092-video_review_small_small.jpg]]></small_url>
+				<super_url><![CDATA[http://media.giantbomb.com/uploads/0/31/494092-video_review_small_super.jpg]]></super_url>
+				<thumb_url><![CDATA[http://media.giantbomb.com/uploads/0/31/494092-video_review_small_thumb.jpg]]></thumb_url>
+				<tiny_url><![CDATA[http://media.giantbomb.com/uploads/0/31/494092-video_review_small_tiny.jpg]]></tiny_url>
+			</image>
+			<length_seconds>306</length_seconds>
+			<low_url><![CDATA[http://media.giantbomb.com/video/bad_company_review_700.mp4]]></low_url>
+			<name><![CDATA[Bad Company Review]]></name>
+			<publish_date>2008-07-15 17:40:31.470287</publish_date>
+			<site_detail_url><![CDATA[http://www.giantbomb.com/bad-company-review/17-4/]]></site_detail_url>
+			<url><![CDATA[bad_company_review.mp4]]></url>
+			<user><![CDATA[Vinny]]></user>
+		</video>
+		<video>
+			<api_detail_url><![CDATA[http://api.giantbomb.com/video/5/]]></api_detail_url>
+			<deck><![CDATA[Get a load of that dude on the drums. No, not that dude, the guy on the REAL drums.]]></deck>
+			<hd_url><![CDATA[http://www.giantbomb.com/video/protected_video_url/5/progressive/3500/?download=1]]></hd_url>
+			<high_url><![CDATA[http://media.giantbomb.com/video/day_03_E3_Small_Vid_1500.mp4]]></high_url>
+			<id>5</id>
+			<image>
+				<icon_url><![CDATA[http://media.giantbomb.com/uploads/0/31/176652-e3_day_03_small_icon.jpg]]></icon_url>
+				<medium_url><![CDATA[http://media.giantbomb.com/uploads/0/31/176652-e3_day_03_small_small.jpg]]></medium_url>
+				<screen_url><![CDATA[http://media.giantbomb.com/uploads/0/31/176652-e3_day_03_small_screen.jpg]]></screen_url>
+				<small_url><![CDATA[http://media.giantbomb.com/uploads/0/31/176652-e3_day_03_small_small.jpg]]></small_url>
+				<super_url><![CDATA[http://media.giantbomb.com/uploads/0/31/176652-e3_day_03_small_super.jpg]]></super_url>
+				<thumb_url><![CDATA[http://media.giantbomb.com/uploads/0/31/176652-e3_day_03_small_thumb.jpg]]></thumb_url>
+				<tiny_url><![CDATA[http://media.giantbomb.com/uploads/0/31/176652-e3_day_03_small_tiny.jpg]]></tiny_url>
+			</image>
+			<length_seconds>1017</length_seconds>
+			<low_url><![CDATA[http://media.giantbomb.com/video/day_03_E3_Small_Vid_700.mp4]]></low_url>
+			<name><![CDATA[Giant Bomb at E3 2008: Day 03 or 04]]></name>
+			<publish_date>2008-07-20 21:36:32</publish_date>
+			<site_detail_url><![CDATA[http://www.giantbomb.com/giant-bomb-at-e3-2008-day-03-or-04/17-5/]]></site_detail_url>
+			<url><![CDATA[day_03_E3_Small_Vid.mp4]]></url>
+			<user><![CDATA[snide]]></user>
+		</video>
+		<video>
+			<api_detail_url><![CDATA[http://api.giantbomb.com/video/6/]]></api_detail_url>
+			<deck><![CDATA[Jeff does a quick walk-thru of the featureset]]></deck>
+			<hd_url><![CDATA[http://www.giantbomb.com/video/protected_video_url/6/progressive/3500/?download=1]]></hd_url>
+			<high_url><![CDATA[http://media.giantbomb.com/video/gb_tutorial_movie_072008_1500.mp4]]></high_url>
+			<id>6</id>
+			<image>
+				<icon_url><![CDATA[http://media.giantbomb.com/uploads/0/22/176658-tour_icon.jpg]]></icon_url>
+				<medium_url><![CDATA[http://media.giantbomb.com/uploads/0/22/176658-tour_small.jpg]]></medium_url>
+				<screen_url><![CDATA[http://media.giantbomb.com/uploads/0/22/176658-tour_screen.jpg]]></screen_url>
+				<small_url><![CDATA[http://media.giantbomb.com/uploads/0/22/176658-tour_small.jpg]]></small_url>
+				<super_url><![CDATA[http://media.giantbomb.com/uploads/0/22/176658-tour_super.jpg]]></super_url>
+				<thumb_url><![CDATA[http://media.giantbomb.com/uploads/0/22/176658-tour_thumb.jpg]]></thumb_url>
+				<tiny_url><![CDATA[http://media.giantbomb.com/uploads/0/22/176658-tour_tiny.jpg]]></tiny_url>
+			</image>
+			<length_seconds>451</length_seconds>
+			<low_url><![CDATA[http://media.giantbomb.com/video/gb_tutorial_movie_072008_700.mp4]]></low_url>
+			<name><![CDATA[Giant Bomb Tour]]></name>
+			<publish_date>2008-07-20 22:15:37</publish_date>
+			<site_detail_url><![CDATA[http://www.giantbomb.com/giant-bomb-tour/17-6/]]></site_detail_url>
+			<url><![CDATA[gb_tutorial_movie_072008.mp4]]></url>
+			<user><![CDATA[snide]]></user>
+		</video>
+		<video>
+			<api_detail_url><![CDATA[http://api.giantbomb.com/video/7/]]></api_detail_url>
+			<deck><![CDATA[Giant Bomb lands on E3 with, what some might call, a boom?]]></deck>
+			<hd_url><![CDATA[http://www.giantbomb.com/video/protected_video_url/7/progressive/3500/?download=1]]></hd_url>
+			<high_url><![CDATA[http://media.giantbomb.com/video/day_01_gb_E3_Small_1500.mp4]]></high_url>
+			<id>7</id>
+			<image>
+				<icon_url><![CDATA[http://media.giantbomb.com/uploads/0/31/176674-e3_day01_small_icon.jpg]]></icon_url>
+				<medium_url><![CDATA[http://media.giantbomb.com/uploads/0/31/176674-e3_day01_small_small.jpg]]></medium_url>
+				<screen_url><![CDATA[http://media.giantbomb.com/uploads/0/31/176674-e3_day01_small_screen.jpg]]></screen_url>
+				<small_url><![CDATA[http://media.giantbomb.com/uploads/0/31/176674-e3_day01_small_small.jpg]]></small_url>
+				<super_url><![CDATA[http://media.giantbomb.com/uploads/0/31/176674-e3_day01_small_super.jpg]]></super_url>
+				<thumb_url><![CDATA[http://media.giantbomb.com/uploads/0/31/176674-e3_day01_small_thumb.jpg]]></thumb_url>
+				<tiny_url><![CDATA[http://media.giantbomb.com/uploads/0/31/176674-e3_day01_small_tiny.jpg]]></tiny_url>
+			</image>
+			<length_seconds>606</length_seconds>
+			<low_url><![CDATA[http://media.giantbomb.com/video/day_01_gb_E3_Small_700.mp4]]></low_url>
+			<name><![CDATA[Giant Bomb at E3 2008: Day 01]]></name>
+			<publish_date>2008-07-21 00:13:49</publish_date>
+			<site_detail_url><![CDATA[http://www.giantbomb.com/giant-bomb-at-e3-2008-day-01/17-7/]]></site_detail_url>
+			<url><![CDATA[day_01_gb_E3_Small.mp4]]></url>
+			<user><![CDATA[Vinny]]></user>
+		</video>
+		<video>
+			<api_detail_url><![CDATA[http://api.giantbomb.com/video/8/]]></api_detail_url>
+			<deck><![CDATA[Things get a little...interesting as Nintendo and Sony hold their press conferences.]]></deck>
+			<hd_url><![CDATA[http://www.giantbomb.com/video/protected_video_url/8/progressive/3500/?download=1]]></hd_url>
+			<high_url><![CDATA[http://media.giantbomb.com/video/day_02_gb_E3_Small_1500.mp4]]></high_url>
+			<id>8</id>
+			<image>
+				<icon_url><![CDATA[http://media.giantbomb.com/uploads/0/31/220352-e3_day_02_small_icon.jpg]]></icon_url>
+				<medium_url><![CDATA[http://media.giantbomb.com/uploads/0/31/220352-e3_day_02_small_small.jpg]]></medium_url>
+				<screen_url><![CDATA[http://media.giantbomb.com/uploads/0/31/220352-e3_day_02_small_screen.jpg]]></screen_url>
+				<small_url><![CDATA[http://media.giantbomb.com/uploads/0/31/220352-e3_day_02_small_small.jpg]]></small_url>
+				<super_url><![CDATA[http://media.giantbomb.com/uploads/0/31/220352-e3_day_02_small_super.jpg]]></super_url>
+				<thumb_url><![CDATA[http://media.giantbomb.com/uploads/0/31/220352-e3_day_02_small_thumb.jpg]]></thumb_url>
+				<tiny_url><![CDATA[http://media.giantbomb.com/uploads/0/31/220352-e3_day_02_small_tiny.jpg]]></tiny_url>
+			</image>
+			<length_seconds>796</length_seconds>
+			<low_url><![CDATA[http://media.giantbomb.com/video/day_02_gb_E3_Small_700.mp4]]></low_url>
+			<name><![CDATA[Giant Bomb at E3 2008: Day 02]]></name>
+			<publish_date>2008-07-22 17:03:23</publish_date>
+			<site_detail_url><![CDATA[http://www.giantbomb.com/giant-bomb-at-e3-2008-day-02/17-8/]]></site_detail_url>
+			<url><![CDATA[day_02_gb_E3_Small.mp4]]></url>
+			<user><![CDATA[Vinny]]></user>
+		</video>
+		<video>
+			<api_detail_url><![CDATA[http://api.giantbomb.com/video/9/]]></api_detail_url>
+			<deck><![CDATA[We close out E3 with an interview with Denis Dyack, some SOE and Star Wars.]]></deck>
+			<hd_url><![CDATA[http://www.giantbomb.com/video/protected_video_url/9/progressive/3500/?download=1]]></hd_url>
+			<high_url><![CDATA[http://media.giantbomb.com/video/day_04_gb_E3_Small_1500.mp4]]></high_url>
+			<id>9</id>
+			<image>
+				<icon_url><![CDATA[http://media.giantbomb.com/uploads/0/31/246185-e3_day_04_small_icon.jpg]]></icon_url>
+				<medium_url><![CDATA[http://media.giantbomb.com/uploads/0/31/246185-e3_day_04_small_small.jpg]]></medium_url>
+				<screen_url><![CDATA[http://media.giantbomb.com/uploads/0/31/246185-e3_day_04_small_screen.jpg]]></screen_url>
+				<small_url><![CDATA[http://media.giantbomb.com/uploads/0/31/246185-e3_day_04_small_small.jpg]]></small_url>
+				<super_url><![CDATA[http://media.giantbomb.com/uploads/0/31/246185-e3_day_04_small_super.jpg]]></super_url>
+				<thumb_url><![CDATA[http://media.giantbomb.com/uploads/0/31/246185-e3_day_04_small_thumb.jpg]]></thumb_url>
+				<tiny_url><![CDATA[http://media.giantbomb.com/uploads/0/31/246185-e3_day_04_small_tiny.jpg]]></tiny_url>
+			</image>
+			<length_seconds>727</length_seconds>
+			<low_url><![CDATA[http://media.giantbomb.com/video/day_04_gb_E3_Small_700.mp4]]></low_url>
+			<name><![CDATA[Giant Bomb at E3 2008: Day End]]></name>
+			<publish_date>2008-07-23 10:36:32</publish_date>
+			<site_detail_url><![CDATA[http://www.giantbomb.com/giant-bomb-at-e3-2008-day-end/17-9/]]></site_detail_url>
+			<url><![CDATA[day_04_gb_E3_Small.mp4]]></url>
+			<user><![CDATA[Vinny]]></user>
+		</video>
+		<video>
+			<api_detail_url><![CDATA[http://api.giantbomb.com/video/11/]]></api_detail_url>
+			<deck><![CDATA[See how it all started, again, for the first time!]]></deck>
+			<hd_url><![CDATA[http://www.giantbomb.com/video/protected_video_url/11/progressive/3500/?download=1]]></hd_url>
+			<high_url><![CDATA[http://media.giantbomb.com/video/howtobuildabomb_01_1500.mp4]]></high_url>
+			<id>11</id>
+			<image>
+				<icon_url><![CDATA[http://media.giantbomb.com/uploads/0/31/298470-bomb_icon.jpg]]></icon_url>
+				<medium_url><![CDATA[http://media.giantbomb.com/uploads/0/31/298470-bomb_small.jpg]]></medium_url>
+				<screen_url><![CDATA[http://media.giantbomb.com/uploads/0/31/298470-bomb_screen.jpg]]></screen_url>
+				<small_url><![CDATA[http://media.giantbomb.com/uploads/0/31/298470-bomb_small.jpg]]></small_url>
+				<super_url><![CDATA[http://media.giantbomb.com/uploads/0/31/298470-bomb_super.jpg]]></super_url>
+				<thumb_url><![CDATA[http://media.giantbomb.com/uploads/0/31/298470-bomb_thumb.jpg]]></thumb_url>
+				<tiny_url><![CDATA[http://media.giantbomb.com/uploads/0/31/298470-bomb_tiny.jpg]]></tiny_url>
+			</image>
+			<length_seconds>168</length_seconds>
+			<low_url><![CDATA[http://media.giantbomb.com/video/howtobuildabomb_01_700.mp4]]></low_url>
+			<name><![CDATA[How To Build A Bomb Ep.01]]></name>
+			<publish_date>2008-07-25 10:54:19</publish_date>
+			<site_detail_url><![CDATA[http://www.giantbomb.com/how-to-build-a-bomb-ep01/17-11/]]></site_detail_url>
+			<url><![CDATA[howtobuildabomb_01.mp4]]></url>
+			<user><![CDATA[Vinny]]></user>
+		</video>
+		<video>
+			<api_detail_url><![CDATA[http://api.giantbomb.com/video/12/]]></api_detail_url>
+			<deck><![CDATA[How To Build A Bomb returns in this second installment.]]></deck>
+			<hd_url><![CDATA[http://www.giantbomb.com/video/protected_video_url/12/progressive/3500/?download=1]]></hd_url>
+			<high_url><![CDATA[http://media.giantbomb.com/video/howtobuildabomb_02_1500.mp4]]></high_url>
+			<id>12</id>
+			<image>
+				<icon_url><![CDATA[http://media.giantbomb.com/uploads/0/31/298470-bomb_icon.jpg]]></icon_url>
+				<medium_url><![CDATA[http://media.giantbomb.com/uploads/0/31/298470-bomb_small.jpg]]></medium_url>
+				<screen_url><![CDATA[http://media.giantbomb.com/uploads/0/31/298470-bomb_screen.jpg]]></screen_url>
+				<small_url><![CDATA[http://media.giantbomb.com/uploads/0/31/298470-bomb_small.jpg]]></small_url>
+				<super_url><![CDATA[http://media.giantbomb.com/uploads/0/31/298470-bomb_super.jpg]]></super_url>
+				<thumb_url><![CDATA[http://media.giantbomb.com/uploads/0/31/298470-bomb_thumb.jpg]]></thumb_url>
+				<tiny_url><![CDATA[http://media.giantbomb.com/uploads/0/31/298470-bomb_tiny.jpg]]></tiny_url>
+			</image>
+			<length_seconds>283</length_seconds>
+			<low_url><![CDATA[http://media.giantbomb.com/video/howtobuildabomb_02_700.mp4]]></low_url>
+			<name><![CDATA[How To Build A Bomb Ep.02]]></name>
+			<publish_date>2008-07-25 10:58:12</publish_date>
+			<site_detail_url><![CDATA[http://www.giantbomb.com/how-to-build-a-bomb-ep02/17-12/]]></site_detail_url>
+			<url><![CDATA[howtobuildabomb_02.mp4]]></url>
+			<user><![CDATA[Vinny]]></user>
+		</video>
+		<video>
+			<api_detail_url><![CDATA[http://api.giantbomb.com/video/13/]]></api_detail_url>
+			<deck><![CDATA[Giant Bombs come in all flavors, even the anti-flea variety.]]></deck>
+			<hd_url><![CDATA[http://www.giantbomb.com/video/protected_video_url/13/progressive/3500/?download=1]]></hd_url>
+			<high_url><![CDATA[http://media.giantbomb.com/video/howtobuildabomb_03_1500.mp4]]></high_url>
+			<id>13</id>
+			<image>
+				<icon_url><![CDATA[http://media.giantbomb.com/uploads/0/31/298610-bomb_icon.jpg]]></icon_url>
+				<medium_url><![CDATA[http://media.giantbomb.com/uploads/0/31/298610-bomb_small.jpg]]></medium_url>
+				<screen_url><![CDATA[http://media.giantbomb.com/uploads/0/31/298610-bomb_screen.jpg]]></screen_url>
+				<small_url><![CDATA[http://media.giantbomb.com/uploads/0/31/298610-bomb_small.jpg]]></small_url>
+				<super_url><![CDATA[http://media.giantbomb.com/uploads/0/31/298610-bomb_super.jpg]]></super_url>
+				<thumb_url><![CDATA[http://media.giantbomb.com/uploads/0/31/298610-bomb_thumb.jpg]]></thumb_url>
+				<tiny_url><![CDATA[http://media.giantbomb.com/uploads/0/31/298610-bomb_tiny.jpg]]></tiny_url>
+			</image>
+			<length_seconds>455</length_seconds>
+			<low_url><![CDATA[http://media.giantbomb.com/video/howtobuildabomb_03_700.mp4]]></low_url>
+			<name><![CDATA[How To Build A Bomb Ep.03]]></name>
+			<publish_date>2008-07-25 11:03:25</publish_date>
+			<site_detail_url><![CDATA[http://www.giantbomb.com/how-to-build-a-bomb-ep03/17-13/]]></site_detail_url>
+			<url><![CDATA[howtobuildabomb_03.mp4]]></url>
+			<user><![CDATA[Vinny]]></user>
+		</video>
+	</results>
+	<status_code>1</status_code>
+</response>
