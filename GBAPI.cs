@@ -152,7 +152,7 @@ namespace Giantbomb.API
 			}
 			catch (Exception Ex)
 			{
-				Logger.Log("Error during FetchResults: {0}", Ex);
+				Logger.LogVerbose("Error during FetchResults: {0}", Ex);
 			}
 
 			return null;
@@ -197,7 +197,7 @@ namespace Giantbomb.API
 			}
 			catch (Exception Ex)
 			{
-				Logger.Log("Error during GetLatestVideos: {0}", Ex);
+				Logger.LogVerbose("Error during GetLatestVideos: {0}", Ex);
 			}
 
 			return null;
