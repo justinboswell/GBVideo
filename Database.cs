@@ -12,6 +12,7 @@ namespace GBVideo
 	public class Database
 	{
 		public List<VideoInstance> Videos = new List<VideoInstance>();
+		private object Lock = new Object();
 
 		private static string CacheFilename
 		{
@@ -61,7 +62,7 @@ namespace GBVideo
 
 		public void Save()
 		{
-			lock (this)
+			lock (Lock)
 			{
 				try
 				{

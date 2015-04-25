@@ -14,6 +14,7 @@ namespace GBVideo
 	{
 		APIClient Client = new APIClient();
 		Database DB = null;
+		private object Lock = new Object();
 
 		// Options
 		static bool bListTypes = false;
@@ -162,7 +163,7 @@ namespace GBVideo
 
 		void FetchVideos()
 		{
-			lock (this)
+			lock (Lock)
 			{
 				Logger.LogVerbose("Checking for new videos...");
 
@@ -211,7 +212,7 @@ namespace GBVideo
 
 		void Video_DownloadStateChanged(VideoInstance Video, DownloadProgressChangedEventArgs e)
 		{
-			lock (Video)
+			lock (Lock)
 			{
 				if (e != null)
 				{
