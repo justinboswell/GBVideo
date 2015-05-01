@@ -31,6 +31,7 @@ namespace GBVideo
 					FileStream CacheFileStream = new FileStream(CacheFilename, FileMode.Open);
 					XmlSerializer Serializer = new XmlSerializer(typeof(Database));
 					Database DiskCache = Serializer.Deserialize(CacheFileStream) as Database;
+					CacheFileStream.Close();
 					if (DiskCache != null)
 						return DiskCache;
 				}
