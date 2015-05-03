@@ -212,7 +212,7 @@ namespace GBVideo
 
 		void Video_DownloadStateChanged(VideoInstance Video, DownloadProgressChangedEventArgs e)
 		{
-			lock (Lock)
+			lock (Video)
 			{
 				if (e != null)
 				{
