@@ -5,14 +5,6 @@
     <Setting Name="DownloadDirectory" Type="System.String" Scope="User">
       <Value Profile="(Default)" />
     </Setting>
-    <Setting Name="VideoTypes" Type="System.Collections.Specialized.StringCollection" Scope="User">
-      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
-&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
-  &lt;string&gt;Quick Looks&lt;/string&gt;
-  &lt;string&gt;Subscriber&lt;/string&gt;
-  &lt;string&gt;Features&lt;/string&gt;
-&lt;/ArrayOfString&gt;</Value>
-    </Setting>
     <Setting Name="QueryBatchSize" Type="System.UInt16" Scope="User">
       <Value Profile="(Default)">5</Value>
     </Setting>
@@ -21,6 +13,19 @@
     </Setting>
     <Setting Name="DaysToKeepMovies" Type="System.Int16" Scope="User">
       <Value Profile="(Default)">7</Value>
+    </Setting>
+    <Setting Name="VideoTypes" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;Quick Looks&lt;/string&gt;
+  &lt;string&gt;Premium&lt;/string&gt;
+  &lt;string&gt;Features&lt;/string&gt;
+  &lt;string&gt;Unfinished&lt;/string&gt;
+  &lt;string&gt;Encyclopedia Bombastica&lt;/string&gt;
+  &lt;string&gt;Metal Gear Scanlon&lt;/string&gt;
+  &lt;string&gt;VinnyVania&lt;/string&gt;
+  &lt;string&gt;Breaking Brad&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
     </Setting>
   </Settings>
 </SettingsFile>

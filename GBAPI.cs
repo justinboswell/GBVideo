@@ -101,7 +101,7 @@ namespace Giantbomb.API
 		public static WebClient CreateWebClient()
 		{
 			WebClient Client = new WebClient();
-			Client.BaseAddress = "http://api.giantbomb.com/";
+			Client.BaseAddress = "http://www.giantbomb.com/api/";
 			Client.QueryString["api_key"] = "08786ab003fdb3e663de0a849a66075a2b845063";
 
 			return Client;
@@ -147,7 +147,7 @@ namespace Giantbomb.API
 					}
 				}
 
-				Uri Address = new Uri(@"/" + Resource + @"/", UriKind.Relative);
+				Uri Address = new Uri(Resource + @"/", UriKind.Relative);
 				return Client.DownloadString(Address);
 			}
 			catch (Exception Ex)
@@ -205,15 +205,18 @@ namespace Giantbomb.API
 
 		public Dictionary<string, int> GetVideoTypes()
 		{
-			if (VideoTypes == null)
+			if (VideoTypes == null || VideoTypes.Count == 0)
 			{
+				VideoTypes = new Dictionary<string, int>();
 				string Xml = FetchResults("video_types", null);
 				VideoTypesResponse Result = ParseResponse<VideoTypesResponse>(Xml);
-
-				VideoTypes = new Dictionary<string, int>();
-				foreach (VideoType VidType in Result.Types)
+				
+				if (Result != null)
 				{
-					VideoTypes.Add(VidType.Name, VidType.ID);
+					foreach (VideoType VidType in Result.Types)
+					{
+						VideoTypes.Add(VidType.Name, VidType.ID);
+					}
 				}
 			}
 

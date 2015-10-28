@@ -193,10 +193,9 @@ namespace GBVideo
 
 		void CleanupOldVideos()
 		{
-			return;
-			Logger.LogVerbose("Checking for expired movies...");
-			DeleteOldMovies(Properties.Settings.Default.DownloadDirectory);
-			Logger.LogVerbose("Done");
+			//Logger.LogVerbose("Checking for expired movies...");
+			//DeleteOldMovies(Properties.Settings.Default.DownloadDirectory);
+			//Logger.LogVerbose("Done");
 		}
 
 		DateTime DownloadStartTime;

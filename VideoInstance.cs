@@ -83,8 +83,9 @@ namespace GBVideo
 			get
 			{
 				// Parse the URL, take the last segment, which will be the filename
-				Uri HQVideoURL = new Uri(VideoInfo.HighQualityURL);
-				string Filename = HQVideoURL.Segments[HQVideoURL.Segments.Length - 1];
+				string videoURL = VideoInfo.HighQualityURL.Length > 0 ? VideoInfo.HighQualityURL : VideoInfo.HDQualityURL;
+				Uri videoUri = new Uri(videoURL);
+				string Filename = videoUri.Segments[videoUri.Segments.Length - 1];
 				return Filename;
 			}
 		}
